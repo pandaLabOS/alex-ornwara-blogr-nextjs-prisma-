@@ -1,0 +1,1 @@
+npx create-next-app --example https://github.com/prisma/blogr-nextjs-prisma/tree/main js-mis-app
